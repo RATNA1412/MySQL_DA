@@ -1,0 +1,23 @@
+contactID,companyId,companyName,firstName,lastName,street,city,state,zip,isMain,email,phoneNo
+1,1,"GreenTech Inc.",John,Doe,"123 Main St","New York",NY,10001,1,john.doe@example.com,123-456-7890
+2,1,NovaCorp,Jane,Smith,"123 Main St","New York",NY,10001,0,jane.smith@example.com,987-654-3210
+3,2,"Futura Enterprises",Bob,Johnson,"456 Elm St","Los Angeles",CA,90001,1,bob.johnson@example.com,555-123-4567
+4,3,"Apex Solutions",Alice,Williams,"789 Oak St",Chicago,IL,60601,1,alice.williams@example.com,444-567-8901
+5,4,"Pulse Dynamics",Mike,Davis,"321 Maple St",Houston,TX,77001,1,mike.davis@example.com,333-901-2345
+6,5,"Crescent Innovations",Emily,Miller,"901 Broadway",Seattle,WA,98101,1,emily.miller@example.com,222-111-4444
+7,6,OmniCorp,Sarah,Taylor,"234 Pine St",Boston,MA,02101,1,sarah.taylor@example.com,666-777-8888
+8,7,"Evolve Systems",David,Brown,"567 Cedar St",Denver,CO,80201,1,david.brown@example.com,888-999-0000
+9,8,"Lumina Technologies",Kevin,White,"890 Walnut St",Dallas,TX,75201,1,kevin.white@example.com,111-222-3333
+10,9,"Aurora Ventures",Lisa,Martin,"345 Spruce St","San Francisco",CA,94101,1,lisa.martin@example.com,444-555-6666
+11,10,"Proxima Solutions",Peter,Harris,"678 Fir St",Miami,FL,33101,1,peter.harris@example.com,777-888-9999
+12,11,"Zephyr Industries",Jessica,Thompson,"901 Ash St",Washington,DC,20001,1,jessica.thompson@example.com,999-000-1111
+13,12,"Nexus Enterprises",Michael,Jackson,"234 Beech St",Atlanta,GA,30301,1,michael.jackson@example.com,222-333-4444
+14,13,"Fusion Dynamics",Jennifer,Garcia,"567 Cypress St",Minneapolis,MN,55401,1,jennifer.garcia@example.com,555-666-7777
+15,14,"Spectra Innovations",William,Martinez,"890 Cherry St",Phoenix,AZ,85001,1,william.martinez@example.com,888-999-0000
+16,15,"Apexion Corp",Elizabeth,Robinson,"123 Orange St",Philadelphia,PA,19101,1,elizabeth.robinson@example.com,111-222-3333
+17,16,"Eon Systems",James,Clark,"456 Lemon St",Detroit,MI,48201,1,james.clark@example.com,444-555-6666
+18,17,"Pinnacle Technologies",Margaret,Rodriguez,"789 Grape St","San Diego",CA,92101,1,margaret.rodriguez@example.com,777-888-9999
+19,18,"Catalyst Ventures",Robert,Lewis,"901 Peach St",Portland,OR,97201,1,robert.lewis@example.com,999-000-1111
+20,19,"Genesis Solutions",Patricia,Lee,"234 Plum St",Memphis,TN,38101,1,patricia.lee@example.com,222-333-4444
+21,1,xyz1,Dianne,Connor,"456 Elm St","New York",NY,10001,1,dianne.connor@example.com,123-456-7890
+22,1,"toll brothers",Jack,Lee,"789 Oak St","Los Angeles",CA,90001,0,jack.lee@example.com,987-654-3210
